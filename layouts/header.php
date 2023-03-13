@@ -78,7 +78,7 @@ let server = "<?php echo $server; ?>";
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse pt-sm-4" id="navbarNav">        
+        <div class="collapse navbar-collapse pt-sm-4 pt-md-0" id="navbarNav">        
           <ul class="navbar-nav ms-auto ps-lg-5 ps-md-0">
             <li class="nav-item nav-link navbtnlinks px-lg-3 px-md-3 px-sm-4 py-sm-2 text-center">
               <a href="./" class="fs-6"><?= $ln['home'] ?></a>

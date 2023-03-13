@@ -136,8 +136,8 @@ a:hover {
   }
 }
 section {
-  padding-top: 5em;
-  padding-bottom: 5em;
+  padding-top: 4em;
+  padding-bottom: 4em;
 }
 .text-primary-color {
   color: var(--maincolor) !important;
@@ -145,8 +145,18 @@ section {
 .text-secondary-color {
   color: var(--secondaryColor) !important;
 }
-.bg-img-3 {
-  background: linear-gradient(0deg, rgba(25, 47, 93, 0.54), rgba(25, 47, 93, 0.54)), url(../images/section-bg-3.png) no-repeat center;
+.bg-img-4 {
+  background: linear-gradient(0deg, rgba(25, 47, 93, 0.86), rgba(25, 47, 93, 0.86)), url(../images/section-bg-4.png) no-repeat center;
+  background-size: cover;
+  position: relative;
+}
+.bg-img-5 {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../images/section-bg-5.png) no-repeat center;
+  background-size: cover;
+  position: relative;
+}
+.bg-img-6 {
+  background: linear-gradient(0deg, rgba(25, 47, 93, 0.54), rgba(25, 47, 93, 0.54)), url(../images/section-bg-6.png) no-repeat center;
   background-size: cover;
   position: relative;
 }
@@ -165,4 +175,10 @@ section {
 .navbar-collapse .nav-item:hover {
   background: white !important;
   width: 100% !important;
+}
+.fs-7 {
+  font-size: 0.9rem !important;
+}
+.bg-red {
+  background: red;
 }
