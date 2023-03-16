@@ -1,0 +1,30 @@
+RewriteEngine On
+RewriteCond %{THE_REQUEST} /index\.php [NC]
+RewriteRule ^ /home [NC,L,R]
+ 
+RewriteRule ^home$ index.php [NC,L]
+RewriteRule ^home$ index.php [NC,L]
+
+RewriteCond %{THE_REQUEST} /read_more\.php [NC]
+RewriteRule ^ /read_more [NC,L,R]
+ 
+RewriteRule ^read_more$ read_more.php [NC,L]
+RewriteRule ^read_more$ read_more.php [NC,L]
+
+RewriteCond %{THE_REQUEST} /about_us\.php [NC]
+RewriteRule ^ /about_us [NC,L,R]
+ 
+RewriteRule ^about_us$ about_us.php [NC,L]
+RewriteRule ^about_us$ about_us.php [NC,L]
+
+RewriteCond %{THE_REQUEST} /strategies\.php [NC]
+RewriteRule ^ /strategies [NC,L,R]
+ 
+RewriteRule ^strategies$ strategies.php [NC,L]
+RewriteRule ^strategies$ strategies.php [NC,L]
+
+RewriteCond %{THE_REQUEST} /systems\.php [NC]
+RewriteRule ^ /systems [NC,L,R]
+ 
+RewriteRule ^systems$ /systems.php [NC,L]
+RewriteRule ^systems$ systems.php [NC,L]

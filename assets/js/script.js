@@ -145,7 +145,7 @@ $(document).ready(function() {
           str_products += `<div class="col-lg-4 col-md-4 col-sm-12 text-center" style="">
                               <p style="color:white; border-radius:30px 30px 0 0;" class="greensec m-0 p-3 fs-3">${pro.name}</p>
                               <img class="img-fluid" src="${rPath}assets/images/${pro.image}" alt="Reduxlogo">
-                              <button type="button" class="btn site-btn my-2 w-100 btn_vote" data-bs-dismiss="modal" style="border-radius:0 !important;" data-id="${pro.id}">Vote</button>
+                              <a href=""><button type="button" class="btn site-btn my-2 w-100 btn_vote" data-bs-dismiss="modal" style="border-radius:0 !important;" data-id="${pro.id}">Vote</button></a>
                           </div>`;
         });
         $("#productions").html(str_products);

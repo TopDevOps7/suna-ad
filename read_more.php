@@ -11,7 +11,7 @@
         <p class="text-primary-color fs-5 my-4">
           <?= $ln['section_text_readmore_1'] ?>
         </p>
-        <button class="btn bg-primary-color text-white text-center px-5"><?= $ln['get_started_now'] ?></button>
+        <a href="" class="text-decoration-none"><button class="btn bg-primary-color text-white text-center px-5"><?= $ln['get_started_now'] ?></button></a>
       </div>
       <div class="col-sm-12 col-md-6 col-lg-6 ps-md-4 ps-sm-2 mt-3">
         <img src="./assets/images/section_7.png" alt="section1" class="w-100">
@@ -28,7 +28,7 @@
     <p class="text-white fs-5 my-4">
       <?= $ln['section_text_readmore_3'] ?>
     </p>
-    <button class="btn bg-secondary-color text-dark text-center px-5 d-flex mx-auto"><?= $ln['join_now'] ?></button>
+    <a href="" class="text-decoration-none"><button class="btn bg-secondary-color text-black text-center px-5 d-flex mx-auto"><?= $ln['join_now'] ?></button></a>
   </section>
   <section class="bg-white px-3 px-sm-4 px-md-5 px-lg-10">
     <div class="row">
@@ -43,7 +43,7 @@
         <p class="text-primary-color fs-6 my-4">
           <?= $ln['section_text_readmore_4'] ?>
         </p>
-        <button class="btn bg-primary-color text-white text-center px-5"><?= $ln['start_immediately'] ?></button>
+        <a href="" class="text-decoration-none"><button class="btn bg-primary-color text-white text-center px-5"><?= $ln['start_immediately'] ?></button></a>
       </div>
     </div>
   </section>

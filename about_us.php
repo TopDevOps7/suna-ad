@@ -5,7 +5,7 @@
   <section class="bg-white px-3 px-sm-4 px-md-5 px-lg-10 pb-4">
     <div class="row">
       <div class="col-sm-12 col-md-6 col-lg-6 pe-md-4 pd-sm-0 mt-3">
-        <h3 class="fw-bold text-dark">
+        <h3 class="fw-bold text-black">
           <?= $ln['section_title_aboutus_1'] ?>
         </h3>
         <p class="text-primary-color fs-7 my-3">
@@ -28,7 +28,7 @@
     </div>
   </section>
   <section class="bg-secondary-color text-center px-3 px-sm-4 px-md-5 px-lg-10 py-1">
-    <p class="text-dark text-uppercase fs-6 my-0">
+    <p class="text-black-gradient text-uppercase fs-6 my-1">
       <?= $ln['section_title_aboutus_2'] ?>
     </p>
   </section>
@@ -50,7 +50,7 @@
     </p>
   </section>
   <section class="bg-red text-center px-3 px-sm-4 px-md-5 px-lg-10 py-1">
-    <p class="text-white text-uppercase fs-6 my-0">
+    <p class="text-white text-uppercase fs-6 my-1">
       <?= $ln['section_title_aboutus_4'] ?>
     </p>
   </section>
@@ -60,18 +60,18 @@
         <img src="./assets/images/section_6.png" alt="section1" class="w-100">
       </div>
       <div class="col-sm-12 col-md-6 col-lg-6 ps-md-4 ps-sm-2 mt-3">
-        <h3 class="fw-bold text-dark text-center mb-3"><?= $ln['section_title_aboutus_5'] ?></h3>
-        <p class="text-dark fs-7 my-3">
+        <h3 class="fw-bold text-black text-center mb-3"><?= $ln['section_title_aboutus_5'] ?></h3>
+        <p class="text-black fs-7 my-3">
           <?= $ln['section_text_aboutus_9'] ?>
         </p>
-        <p class="text-dark fs-7 my-3">
+        <p class="text-black fs-7 my-3">
           <?= $ln['section_text_aboutus_10'] ?>
         </p>
-        <p class="text-dark fs-7 my-3">
+        <p class="text-black fs-7 my-3">
           <?= $ln['section_text_aboutus_11'] ?>
         </p>
       </div>
-      <p class="text-dark fs-7 my-3">
+      <p class="text-black fs-7 my-3">
         <?= $ln['section_text_aboutus_12'] ?>
       </p>
     </div>
