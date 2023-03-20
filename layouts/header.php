@@ -41,18 +41,18 @@
 <body onload="">
 	<!-- Header Navbar -->
   <header class="sticky-top">
-    <div class="topbar row bg-secondary-color px-3 px-sm-4 px-md-5 px-lg-10 py-0">
+    <div class="topbar row bg-secondary-color px-5 px-sm-5 px-md-5 px-lg-10 py-0">
       <div class="py-1 mt-1 mb-0 col-sm-12 col-lg-6 col-md-6"><?= $ln['welcome_suna'] ?></div>
       <nav class="navbar container py-1 col-sm-12 col-lg-6 col-md-6 px-3">
         <div class="lang_setting px-3 pt-1">
           <div class="dropdown-center" style="position: relative;">
             <div class="border-0 dropdown-toggle" data-bs-toggle="dropdown">
-              <img src="./assets/images/flag/round-<?=$lang?>.png" alt="<?=$lang?>" class="me-1 pb-1" width=20>
+              <img src="./assets/images/flag/round-<?=$lang?>.png" alt="<?=$lang?>" class="me-1 pb-1" style="width: 1.4em">
               <span class="lh-sm"><?= $ln[$lang] ?></span>
             </div>
-            <div class="dropdown-menu">
-              <a class="my-1 dropdown-item <?=$lang == "de" ? "active" : ""?>" data-lang='de'><img src="./assets/images/flag/lang-de.svg" alt="de" class="me-2" width=25><?= $ln['de'] ?></a>
-              <a class="my-1 dropdown-item <?=$lang == "en" ? "active" : ""?>" data-lang='en'><img src="./assets/images/flag/lang-en.svg" alt="en" class="me-2" width=25><?= $ln['en'] ?></a>
+            <div class="dropdown-menu fs-6">
+              <a class="my-1 dropdown-item <?=$lang == "de" ? "active" : ""?>" data-lang='de'><img src="./assets/images/flag/lang-de.svg" alt="de" class="me-2" style="width: 1.6em;"><?= $ln['de'] ?></a>
+              <a class="my-1 dropdown-item <?=$lang == "en" ? "active" : ""?>" data-lang='en'><img src="./assets/images/flag/lang-en.svg" alt="en" class="me-2" style="width: 1.6em"><?= $ln['en'] ?></a>
             </div>
           </div>
         </div>
@@ -65,10 +65,10 @@
       </nav>
     </div>
     <div class="nav-header <?php echo $page == "Home" ? "bg-img bg-img-1" : ""; ?>" >
-      <nav class="justify-content-between navbar navbar-expand-md navbar-dark <?php echo $page == "Home" ? "" : "bg-primary-color"; ?> mobNavbar px-3 px-sm-3 px-md-5 px-lg-10 py-3">
-        <a class="navbar-brand" href="./"> <img class="" src="./assets/images/icons/suna_logo_white.png" alt="logo" width="120"> </a>
+      <nav class="justify-content-between navbar navbar-expand-md navbar-dark <?php echo $page == "Home" ? "" : "bg-primary-color"; ?> mobNavbar px-5 px-sm-5 px-md-5 px-lg-10 py-3">
+        <a class="fs-6 navbar-brand" href="./"> <img class="" src="./assets/images/icons/suna_logo_white.png" alt="logo" style="width: 7em"> </a>
         
-        <a href="" class="text-decoration-none"><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <a href="" class="text-decoration-none d-flex"><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button></a>
         <div class="collapse navbar-collapse pt-sm-4 pt-md-0" id="navbarNav">        
@@ -89,9 +89,9 @@
         </div>
       </nav>
       <?php if($page == "Home") { ?>
-      <section class="px-3 px-sm-4 px-md-5 px-lg-10">
+      <section class="px-5 px-sm-5 px-md-5 px-lg-10">
         <div class="row">
-          <div class="col-sm-12 col-md-6 col-lg-6 pe-md-4 pd-sm-0 my-auto header_side">
+          <div class="col-sm-12 col-md-6 col-lg-6 pe-md-4 pe-sm-0 my-auto header_side">
             <h4 class="fw-bold text-white">
               <?= $ln['section_title_home_1'] ?>
             </h4>
@@ -101,7 +101,7 @@
             <p class="text-white fs-6 my-5">
               <?= $ln['section_text_readmore_1'] ?>
             </p>
-            <a href="" class="text-decoration-none"><button class="btn bg-secondary-color text-black text-center px-4 d-flex"><?= $ln['start_receive'] ?></button></a> 
+            <a href="" class="text-decoration-none d-flex"><button class="btn bg-secondary-color text-black text-center px-4 d-flex"><?= $ln['start_receive'] ?></button></a> 
           </div>
           <div class="col-sm-12 col-md-6 col-lg-6 px-5 d-flex">
             <img src="./assets/images/section_1.png" alt="section1" class="w-100 my-auto">

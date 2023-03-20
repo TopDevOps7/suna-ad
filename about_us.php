@@ -2,7 +2,7 @@
   include_once "layouts/header.php";
 ?>
 
-  <section class="bg-white px-3 px-sm-4 px-md-5 px-lg-10 pb-4">
+  <section class="bg-white px-54 px-sm-5 px-md-5 px-lg-10 pb-4">
     <div class="row">
       <div class="col-sm-12 col-md-6 col-lg-6 pe-md-4 pd-sm-0 mt-3">
         <h3 class="fw-bold text-black">
@@ -27,12 +27,12 @@
       </p>
     </div>
   </section>
-  <section class="bg-secondary-color text-center px-3 px-sm-4 px-md-5 px-lg-10 py-1">
+  <section class="bg-secondary-color text-center px-54 px-sm-5 px-md-5 px-lg-10 py-1">
     <p class="text-black-gradient text-uppercase fs-6 my-1">
       <?= $ln['section_title_aboutus_2'] ?>
     </p>
   </section>
-  <section class="bg-img bg-img-4 px-3 px-sm-4 px-md-5 px-lg-10">
+  <section class="bg-img bg-img-4 px-54 px-sm-5 px-md-5 px-lg-10">
     <h2 class="fw-bold text-white text-center">
       <?= $ln['section_title_aboutus_3'] ?>
     </h2>
@@ -49,12 +49,12 @@
       <?= $ln['section_text_aboutus_8'] ?>
     </p>
   </section>
-  <section class="bg-red text-center px-3 px-sm-4 px-md-5 px-lg-10 py-1">
+  <section class="bg-red text-center px-54 px-sm-5 px-md-5 px-lg-10 py-1">
     <p class="text-white text-uppercase fs-6 my-1">
       <?= $ln['section_title_aboutus_4'] ?>
     </p>
   </section>
-  <section class="bg-white px-3 px-sm-4 px-md-5 px-lg-10">
+  <section class="bg-white px-54 px-sm-5 px-md-5 px-lg-10">
     <div class="row">
       <div class="col-sm-12 col-md-6 col-lg-6 pe-md-4 pd-sm-0 mt-3">
         <img src="./assets/images/section_6.png" alt="section1" class="w-100">
@@ -76,13 +76,13 @@
       </p>
     </div>
   </section>
-  <section class="bg-img bg-img-5 px-3 px-sm-4 px-md-5 px-lg-10 text-center">
-    <div class="d-flex justify-content-center">
-      <img src="./assets/images/icons/suna-left.png" alt="suna" width=80>
-      <h2 class="fw-bold text-white text-center mt-auto mx-4">
+  <section class="bg-img bg-img-5 px-54 px-sm-5 px-md-5 px-lg-10 text-center">
+    <div class="d-flex justify-content-center mb-5">
+      <img src="./assets/images/icons/suna-left.png" alt="suna" style="width: 5em;">
+      <h2 class="fw-bold text-white text-center mt-auto mx-3">
         <?= $ln['section_title_aboutus_6'] ?>
       </h2>
-      <img src="./assets/images/icons/suna-right.png" alt="suna" width=80>
+      <img src="./assets/images/icons/suna-right.png" alt="suna" style="width: 5em;">
     </div>
     <p class="text-white text-center fs-7 my-3">
       <?= $ln['section_text_aboutus_13'] ?>
