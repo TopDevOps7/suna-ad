@@ -10,6 +10,6 @@
       'From: ' . $email . "\r\n";
 
   $content   = 'New touch request from ' . $email . ' through Suna Comming Soon.';
-  mail($to, $subject, $content, $header);
-  return true;
+  
+  return mail($to, $subject, $content, $header);
 ?>
