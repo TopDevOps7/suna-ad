@@ -434,6 +434,12 @@ section {
 .text-secondary-color {
   color: var(--secondaryColor) !important;
 }
+.bg-img-coming {
+  background: url(../images/coming.png) no-repeat center;
+  background-size: cover;
+  position: relative;
+  min-height: 100vh !important;
+}
 .bg-img-1 {
   background: url(../images/section-bg-1.png) no-repeat center;
   background-size: cover;

@@ -28,3 +28,8 @@ RewriteRule ^ /test/systems [NC,L,R]
  
 RewriteRule ^systems$ systems.php [NC,L]
 RewriteRule ^systems$ systems.php [NC,L]
+RewriteCond %{THE_REQUEST} /coming_soon\.php [NC]
+RewriteRule ^ /test/coming_soon [NC,L,R]
+ 
+RewriteRule ^coming_soon$ coming_soon.php [NC,L]
+RewriteRule ^coming_soon$ coming_soon.php [NC,L]

@@ -4,6 +4,7 @@ $ln["login"] = "Login";
 $ln["create_account"] = "Create Account";
 $ln["home"] = "Home";
 $ln["about_us"] = "About Us";
+$ln["contact_us"] = "Contact Us";
 $ln["systems"] = "Systems";
 $ln["strategies"] = "Strategies";
 $ln["de"] = "German";
@@ -194,5 +195,9 @@ $ln["section_text_future_4"] = "We are of course aware that trading on the stock
 $ln["section_text_future_5"] = "Overall, we are very confident that we can provide you with an excellent experience in the field of copy trading. We are committed to constantly improving ourselves and continuously expanding our services to provide you as an investor with maximum benefits.";
 $ln["section_text_guarantee_1"] = "If you decide to purchase our products, always keep in mind our Security Guarantee.";
 $ln["section_text_guarantee_2"] = "This guarantee states that if a strategy generates a return of less than 20% in a trading year, you will receive the following year free of charge and be exempt from the annual fee.";
+
+// coming
+$ln["section_title_coming"] = "Coming Soon<span class='fw-normal' style='letter-spacing: 0.05em;'>.........</span>";
+$ln["section_text_coming"] = "we are working on our website look forward to a completely new website that gives you the opportunity to buy or sell our products.";
 
 ?>

@@ -4,6 +4,7 @@ $ln["login"] = "Login";
 $ln["create_account"] = "Konto erstellen";
 $ln["home"] = "Home";
 $ln["about_us"] = "Über uns";
+$ln["contact_us"] = "Kontaktiere uns";
 $ln["systems"] = "Systeme";
 $ln["strategies"] = "Strategien";
 $ln["de"] = "Deutsch";
@@ -195,5 +196,9 @@ $ln["section_text_future_4"] = "Uns ist natürlich bewusst, dass der Handel an d
 $ln["section_text_future_5"] = "Insgesamt sind wir sehr zuversichtlich, Ihnen eine hervorragende Erfahrung im Bereich des Copy Tradings bieten zu können. Wir sind bestrebt, uns ständig zu verbessern und unsere Dienstleistungen kontinuierlich zu erweitern, um Ihnen als Investor zur Verfügung zu stehen maximale Vorteile.";
 $ln["section_text_guarantee_1"] = "Wenn Sie sich entscheiden, unsere Produkte zu kaufen, denken Sie immer an unsere Sicherheitsgarantie.";
 $ln["section_text_guarantee_2"] = "Diese Garantie besagt, dass Sie, wenn eine Strategie in einem Handelsjahr eine Rendite von weniger als 20% erzielt, das Folgejahr kostenlos erhalten und von der Jahresgebühr befreit werden.";
+
+// coming
+$ln["section_title_coming"] = "Bald verfügbar<span class='fw-normal' style='letter-spacing: 0.05em;'>.........</span>";
+$ln["section_text_coming"] = "wir arbeiten an unserer Website freuen uns auf eine komplett neue Website, die Ihnen die Möglichkeit gibt, unsere Produkte zu kaufen oder zu verkaufen.";
 
 ?>
