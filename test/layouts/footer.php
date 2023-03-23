@@ -9,13 +9,13 @@
     <div class="py-1 mt-1 mb-0 col-sm-12 col-lg-6 col-md-6 text-light"><?= $ln['copyright_suna'] ?></div>
     <nav class="navbar container py-0 col-sm-12 col-lg-6 col-md-6">      
       <div class="nav-item nav-link px-3">
-        <a href="./terms" class="text-light">Terms</a>
+        <a href="https://vqualis.com/agbs/" class="text-light">Terms</a>
       </div>
       <div class="nav-item nav-link px-3">
-        <a href="./privacy" class="text-light">Privacy</a>
+        <a href="https://vqualis.com/datenschutz/" class="text-light">Privacy</a>
       </div>
       <div class="nav-item nav-link px-3">
-        <a href="./cookies" class="text-light">Cookies</a>
+        <a href="" class="text-light">Cookies</a>
       </div>
     </nav>
   </div>

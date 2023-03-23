@@ -8,7 +8,7 @@
     <h2 class="fw-bold text-secondary-color text-center">
       <?= $ln['section_title_home_8'] ?>
     </h2>
-    <p class="text-white fs-5 my-4 w-75 mx-auto">
+    <p class="text-white fs-5 my-4 w-50 mx-auto">
       <?= $ln['section_text_home_9'] ?>
     </p>
   </section>
@@ -40,6 +40,7 @@
           <h3 class="text-black my-2 fw-bold ms-2">
             SUNA LITE $249
           </h3>
+          <div class="bg-red text-white text-center px-3 pb-1 d-flex fs-6 rounded-2 ms-4 my-auto">comming soon</div>
         </div>
         <h5 class="text-black mt-3 mb-2 fw-bold">
           <?= $ln['min_capital'] ?>- $150
@@ -54,13 +55,11 @@
           <?= $ln['section_text_lite_3'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-2"><?= $ln['free_activation'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-2"><?= $ln['start_with_better_fee'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
       </div>
@@ -83,16 +82,13 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">150</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -108,6 +104,7 @@
           <h3 class="text-black my-2 fw-bold ms-2">
             SUNA SMART $749
           </h3>
+          <div class="bg-red text-white text-center px-3 pb-1 d-flex fs-6 rounded-2 ms-4 my-auto">comming soon</div>
         </div>
         <h5 class="text-black mt-3 mb-2 fw-bold">
           <?= $ln['min_capital'] ?>- $2,500
@@ -125,13 +122,11 @@
           <?= $ln['section_text_smart_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-2"><?= $ln['free_activation'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-2"><?= $ln['start_with_better_fee'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
       </div>
@@ -154,16 +149,13 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">2,500</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -179,6 +171,7 @@
           <h3 class="text-black my-2 fw-bold ms-2">
             SUNA ADVANCE $1,449
           </h3>
+          <div class="bg-red text-white text-center px-3 pb-1 d-flex fs-6 rounded-2 ms-4 my-auto">comming soon</div>
         </div>
         <h5 class="text-black mt-3 mb-2 fw-bold">
           <?= $ln['min_capital'] ?>- $5,000
@@ -196,13 +189,11 @@
           <?= $ln['section_text_advance_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-2"><?= $ln['free_activation'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-2"><?= $ln['start_with_better_fee'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
       </div>
@@ -225,16 +216,13 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">5,000</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -250,6 +238,7 @@
           <h3 class="text-black my-2 fw-bold ms-2">
             SUNA PREMIUM $2,449
           </h3>
+          <div class="bg-red text-white text-center px-3 pb-1 d-flex fs-6 rounded-2 ms-4 my-auto">comming soon</div>
         </div>
         <h5 class="text-black mt-3 mb-2 fw-bold">
           <?= $ln['min_capital'] ?>- $10,000
@@ -267,13 +256,11 @@
           <?= $ln['section_text_premium_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-2"><?= $ln['free_activation'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-            <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
-            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-2"><?= $ln['start_with_better_fee'] ?></button>
+          <a href="" class="text-decoration-none d-flex">
+            <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
       </div>
@@ -296,16 +283,13 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">10,000</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
-              <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
+            <a href="" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -331,13 +315,13 @@
     </p>
   </section>
   <section class="bg-secondary-gradient-bar row justify-content-start px-54 px-sm-5 px-md-5 px-lg-10 py-1 position-relative py-3">
-    <img src="./assets/images/guaranteed.png" alt="" class="position-absolute" style="right: 3.5em; top: -2.3em; width: 12em; height: auto;">
-    <div class="col-12 col-sm-10 col-md-10 col-lg-10 col-xl-10 col-xxl-10 d-flex">
+    <img src="./assets/images/guaranteed.png" alt="" class="position-absolute" style="right: 5em; top: -3em; width: 12em; height: auto;">
+    <div class="col-12 col-sm-11 col-md-11 col-lg-11 col-xl-11 col-xxl-11 d-flex">
       <div class="d-flex">
         <img src="./assets/images/icons/cate_item.png" alt="" width=40 height=40 class="my-auto">
       </div>
       <div class="text-left ms-3">
-        <p class="text-primary-color fs-5 fw-bold mb-1">
+        <p class="text-primary-color fs-4 fw-bold mb-0">
           <?= $ln['section_text_guarantee_1'] ?>
         </p>
         <p class="text-black fs-6 mb-0">

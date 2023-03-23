@@ -57,10 +57,10 @@
           </div>
         </div>
         <div class="nav-item nav-link px-3">
-          <a href="./login" class=""><?= $ln['login'] ?></a>
+          <a href="" class=""><?= $ln['login'] ?></a>
         </div>
         <div class="nav-item bg-white nav-link px-3 py-1">
-          <a href="./register" class=""><?= $ln['create_account'] ?></a>
+          <a href="" class=""><?= $ln['create_account'] ?></a>
         </div>
       </nav>
     </div>
