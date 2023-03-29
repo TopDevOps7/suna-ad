@@ -132,6 +132,7 @@ $ln["money_management_system"] = "Geldverwaltungssystem";
 $ln["Verfügbarkeit"] = "Verfügbarkeit";
 $ln["free_activation"] = "Kostenlose Aktivierung";
 $ln["start_with_better_fee"] = "Starten Sie mit einer besseren Leistungsgebühr";
+$ln["buy_better_fee"] = "Gebühr für bessere Performance kaufen";
 $ln["more_information"] = "Weitere Informationen";
 
 $ln["simple_availability_text"] = "Mit Suna Trading können Sie jederzeit und überall ohne Einschränkungen handeln. Unsere Plattform ist auf Desktop-, Laptop- und Mobilgeräten verfügbar.";

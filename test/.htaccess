@@ -3,33 +3,33 @@ RewriteCond %{THE_REQUEST} /index\.php [NC]
 RewriteRule ^ /home [NC,L,R]
  
 RewriteRule ^home$ index.php [NC,L]
-RewriteRule ^home$ index.php [NC,L]
 
 RewriteCond %{THE_REQUEST} /read_more\.php [NC]
 RewriteRule ^ /test/read_more [NC,L,R]
  
-RewriteRule ^read_more$ read_more.php [NC,L]
 RewriteRule ^read_more$ read_more.php [NC,L]
 
 RewriteCond %{THE_REQUEST} /about_us\.php [NC]
 RewriteRule ^ /test/about_us [NC,L,R]
  
 RewriteRule ^about_us$ about_us.php [NC,L]
-RewriteRule ^about_us$ about_us.php [NC,L]
 
 RewriteCond %{THE_REQUEST} /strategies\.php [NC]
 RewriteRule ^ /test/strategies [NC,L,R]
  
-RewriteRule ^strategies$ strategies.php [NC,L]
 RewriteRule ^strategies$ strategies.php [NC,L]
 
 RewriteCond %{THE_REQUEST} /systems\.php [NC]
 RewriteRule ^ /test/systems [NC,L,R]
  
 RewriteRule ^systems$ systems.php [NC,L]
-RewriteRule ^systems$ systems.php [NC,L]
+
 RewriteCond %{THE_REQUEST} /coming_soon\.php [NC]
 RewriteRule ^ /test/coming_soon [NC,L,R]
  
 RewriteRule ^coming_soon$ coming_soon.php [NC,L]
-RewriteRule ^coming_soon$ coming_soon.php [NC,L]
+
+RewriteCond %{THE_REQUEST} /strategy_detail\.php [NC]
+RewriteRule ^ /test/strategy_detail [NC,L,R]
+ 
+RewriteRule ^strategy_detail$ strategy_detail.php [NC,L]

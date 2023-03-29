@@ -82,7 +82,7 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">150</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="https://analysis.suna.ai/public/6sym-2018" class="text-decoration-none d-flex">
+            <a href="./strategy_detail?strategy_type=Lite&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
             <a href="" class="text-decoration-none d-flex">
@@ -149,7 +149,7 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">2,500</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="https://analysis.suna.ai/public/6sym-2018" class="text-decoration-none d-flex">
+            <a href="./strategy_detail?strategy_type=Smart&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
             <a href="" class="text-decoration-none d-flex">
@@ -216,7 +216,7 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">5,000</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="https://analysis.suna.ai/public/6sym-2018" class="text-decoration-none d-flex">
+            <a href="./strategy_detail?strategy_type=Advance&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
             <a href="" class="text-decoration-none d-flex">
@@ -283,7 +283,7 @@
           <p class="text-primary-color fs-6 d-flex mb-2 fw-light"><?= $ln['min_capital'] ?> <img src="./assets/images/icons/rounded_euro.png" alt="euro" class="mx-1 d-flex my-auto" style="width: 1.1em; height: 1.1em;">10,000</p>
           <hr class="section_divide_horizental">
           <div class="action_buttons px-2 mt-2">
-            <a href="https://analysis.suna.ai/public/6sym-2018" class="text-decoration-none d-flex">
+            <a href="./strategy_detail?strategy_type=Premium&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
             <a href="" class="text-decoration-none d-flex">

@@ -1,11 +1,11 @@
 <?php
 
     $link = $_SERVER['PHP_SELF'];
-    $link_array = explode('/',$link);
+    $link_array = explode('/', $link);
     $pagePath = $link_array[count($link_array) - 2];
     $pagename = end($link_array);
     $page_ = explode(".", $pagename);
-    $page =str_replace('_', '', ucwords($page_[0]));
+    $page = str_replace('_', '', ucwords($page_[0]));
     if ($page == "" | $page == "index" | $page == "Index") {
       $page = "Home";
     }

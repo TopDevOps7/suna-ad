@@ -130,6 +130,7 @@ $ln["money_management_system"] = "Money management system";
 $ln["availability"] = "Availability";
 $ln["free_activation"] = "Free Activation";
 $ln["start_with_better_fee"] = "Start With a Better Performance Fee";
+$ln["buy_better_fee"] = "Buy Better Performance Fee";
 $ln["more_information"] = "More Information";
 
 $ln["simple_availability_text"] = "With Suna Trading, you can trade anytime and anywhere without restrictions. Our platform is available on desktop, laptop, and mobile devices.";
