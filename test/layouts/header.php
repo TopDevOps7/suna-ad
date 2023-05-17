@@ -24,7 +24,7 @@
   <meta name="google" content="notranslate" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Suna <?php echo "| " . $page; ?></title>
-  <meta name="title" content="FIGHT ENERGY SHORTAGE AND CLIMATE CHANGE!">
+  <meta name="title" content="WORLD BEST AUTOMATIC TRADING SYSTEM EXPERIENCE">
   
   <link rel="shortcut icon" href="./assets/images/icons/sunaicon.ico" type="image/x-icon">
   <link href="./assets/images/icons/sunaicon.ico" rel="suna-icon">
@@ -101,7 +101,7 @@
             <p class="text-white fs-6 my-5">
               <?= $ln['section_text_readmore_1'] ?>
             </p>
-            <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+            <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
               <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
               <button class="btn bg-secondary-color text-black text-center px-4 d-flex"><?= $ln['start_receive'] ?></button>
             </a> 

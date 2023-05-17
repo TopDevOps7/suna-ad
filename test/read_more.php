@@ -11,7 +11,7 @@
         <p class="text-primary-color fs-5 my-4">
           <?= $ln['section_text_readmore_1'] ?>
         </p>
-        <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+        <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
           <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
           <button class="btn bg-primary-color text-white text-center px-5"><?= $ln['get_started_now'] ?></button>
         </a>
@@ -31,7 +31,7 @@
     <p class="text-white fs-5 my-4">
       <?= $ln['section_text_readmore_3'] ?>
     </p>
-    <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+    <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
       <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
       <button class="btn bg-secondary-color text-black text-center px-5 d-flex mx-auto"><?= $ln['join_now'] ?></button>
     </a>
@@ -49,7 +49,7 @@
         <p class="text-primary-color fs-6 my-4">
           <?= $ln['section_text_readmore_4'] ?>
         </p>
-        <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+        <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
           <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
           <button class="btn bg-primary-color text-white text-center px-5"><?= $ln['start_immediately'] ?></button>
         </a>

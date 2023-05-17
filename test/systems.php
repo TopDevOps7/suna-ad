@@ -103,11 +103,11 @@
       <?= $ln['section_text_systems_5'] ?>
     </p>
     <div class="d-flex justify-content-center mt-5 mx-3">
-      <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+      <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
         <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.6em;">comming soon</div>
         <button class="btn bg-success text-white text-center px-5 d-flex"><?= $ln['free_activation'] ?></button>
       </a>
-      <a href="" class="text-decoration-none d-flex position-relative mx-3" style="width: fit-content;">
+      <a href="./coming_soon" class="text-decoration-none d-flex position-relative mx-3" style="width: fit-content;">
         <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.6em;">comming soon</div>
         <button class="btn bg-secondary-color text-black text-center px-3 d-flex"><?= $ln['start_with_better_fee'] ?></button>
       </a>
@@ -234,7 +234,7 @@
     <p class="fs-6">
       <?= $ln['section_text_systems_info'] ?>
     </p>
-    <a href="" class="text-decoration-none d-flex position-relative justify-content-center mx-auto fs-7" style="width: fit-content;">
+    <a href="./coming_soon" class="text-decoration-none d-flex position-relative justify-content-center mx-auto fs-7" style="width: fit-content;">
       <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
       <button class="btn bg-secondary-color text-black text-center px-5 d-flex fs-5"><?= $ln['more_information'] ?></button>
     </a>

@@ -55,10 +55,10 @@
           <?= $ln['section_text_lite_3'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
@@ -85,10 +85,10 @@
             <a href="./strategy_detail?strategy_type=Lite&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -122,10 +122,10 @@
           <?= $ln['section_text_smart_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
@@ -152,10 +152,10 @@
             <a href="./strategy_detail?strategy_type=Smart&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -189,10 +189,10 @@
           <?= $ln['section_text_advance_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
@@ -219,10 +219,10 @@
             <a href="./strategy_detail?strategy_type=Advance&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>
@@ -256,10 +256,10 @@
           <?= $ln['section_text_premium_4'] ?>
         </p>
         <div class="d-flex justify-content-center mt-5">
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-success text-white text-center px-5 d-flex mx-2 py-1"><?= $ln['free_activation'] ?></button>
           </a>
-          <a href="" class="text-decoration-none d-flex">
+          <a href="./coming_soon" class="text-decoration-none d-flex">
             <button class="btn bg-secondary-color text-black text-center px-3 d-flex mx-2 py-1"><?= $ln['start_with_better_fee'] ?></button>
           </a>
         </div>
@@ -286,10 +286,10 @@
             <a href="./strategy_detail?strategy_type=Premium&strategy_name=6sym-2018" class="text-decoration-none d-flex">
               <button class="btn bg-primary-color text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['history'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-success text-white text-uppercase text-center px-1 my-2 fs-7 w-100 px-quto"><?= $ln['pay_2years'] ?></button>
             </a>
-            <a href="" class="text-decoration-none d-flex">
+            <a href="./coming_soon" class="text-decoration-none d-flex">
               <button class="btn bg-secondary-color text-black text-uppercase text-center px-3 my-2 fs-7 w-100 px-quto"><?= $ln['buy_now'] ?></button>
             </a>
           </div>

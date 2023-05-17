@@ -29,7 +29,7 @@ $ln["annual_fees"] = "Annual Fees";
 $ln["min_capital"] = "Min Capital";
 
 $ln["annual_return"] = "Annual Return";
-$ln["year10"] = "10+ Years";
+$ln["year7"] = "7+ Years";
 $ln["total_investment"] = "Total investment";
 $ln["live_investor"] = "Live investor";
 $ln["market_experience"] = "Market Experience";
@@ -38,8 +38,8 @@ $ln["fast_easy"] = "Fast and Easy System !";
 
 $ln["section_title_home_1"] = "SUNA.Ai Offers Successful Signals for";
 $ln["section_title_home_2"] = "Forex, Cryptocurrencies, Indices, and More";
-$ln["section_title_home_3"] = "World best autometic trading system experience";
-$ln["section_title_home_4"] = "A unique access to the of our modern world.";
+$ln["section_title_home_3"] = "World best automatic trading system experience";
+$ln["section_title_home_4"] = "A unique access to our modern world.";
 $ln["section_title_home_5"] = "Revolutionize Your Trading with <span class='text-secondary-color'>SUNA.Ai's</span> Advanced AI Technology and Automated Trading Systems";
 $ln["section_title_home_6"] = "We lead you to trading success!";
 $ln["section_title_home_7"] = "Activate Our Products for Free and Pay";

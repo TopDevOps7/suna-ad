@@ -29,7 +29,7 @@ $ln["annual_fees"] = "Jahresgebühren";
 $ln["min_capital"] = "Mindestkapital";
 
 $ln["annual_return"] = "Jährliche Rendite";
-$ln["year10"] = "10+ Jahre";
+$ln["year7"] = "7+ Jahre";
 $ln["total_investment"] = "Gesamtinvestition";
 $ln["live_investor"] = "Live-Investor";
 $ln["market_experience"] = "Markterfahrung";

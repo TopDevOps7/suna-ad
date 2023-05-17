@@ -30,12 +30,12 @@
         </div>
       </div>
       <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 fs-7 my-auto">
-        <a href="" class="text-decoration-none d-flex w-100">
+        <a href="./coming_soon" class="text-decoration-none d-flex w-100">
           <button class="btn bg-success text-uppercase text-white text-center px-auto d-flex mx-2 py-2 w-100 fs-6 d-flex justify-content-center"><?= $ln['free_activation'] ?></button>
         </a>
       </div>
       <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 fs-7 my-auto">
-        <a href="" class="text-decoration-none d-flex w-100">
+        <a href="./coming_soon" class="text-decoration-none d-flex w-100">
           <button class="btn bg-secondary-color text-uppercase text-black text-center px-auto d-flex mx-2 py-2 w-100 fs-6 d-flex justify-content-center"><?= $ln['buy_better_fee'] ?></button>
         </a>
       </div>

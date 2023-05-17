@@ -24,7 +24,7 @@
         <p class="text-black fs-6 my-4">
           <?= $ln['section_text_home_3'] ?>
         </p>
-        <a href="./read_more"><button class="btn bg-primary-color text-white uppercase text-center px-5"><?= $ln['read_more'] ?></button></a>
+        <a href="./read_more" class="text-decoration-none d-flex w-100"><button class="btn bg-primary-color text-white uppercase text-center px-5"><?= $ln['read_more'] ?></button></a>
       </div>
     </div>
   </section>
@@ -70,7 +70,7 @@
     <p class="text-white text-uppercase fs-6 my-auto">
       <?= $ln['section_title_home_6'] ?>
     </p>
-    <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+    <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
       <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
       <button class="btn bg-secondary-color text-black text-center px-5 my-1"><?= $ln['get_started'] ?></button>
     </a>
@@ -85,7 +85,7 @@
     <p class="text-white fs-5 my-4 w-75 mx-auto">
       <?= $ln['section_text_home_9'] ?>
     </p>
-    <a href="" class="text-decoration-none d-flex position-relative justify-content-center" style="width: fit-content;">
+    <a href="./coming_soon" class="text-decoration-none d-flex position-relative justify-content-center" style="width: fit-content;">
       <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
       <button class="btn bg-secondary-color text-uppercase text-black text-center px-5 my-1"><?= $ln['activate_your_strategy'] ?></button>
     </a>
@@ -208,7 +208,7 @@
         </div>
       </div>
       <div class="d-flex col-sm-12 col-md-4 col-lg-4 ps-md-3 ps-sm-0 justify-content-end py-sm-2">
-        <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+        <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
           <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
           <button class="btn bg-primary-color text-uppercase text-white text-center px-5 my-auto ms-auto"><?= $ln['start_your_trading_now'] ?></button>
         </a>
@@ -303,25 +303,25 @@
   <div class="bg-secondary-color row text-center p-3 px-md-5 px-lg-10">
     <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-2">
       <div class="text-black rounded h-100 text-center">
-        <h2 class="fw-bold mb-0">123.09%</h2>
+        <h2 class="fw-bold mb-0">23.09%</h2>
         <p class="fs-4 mb-0 fw-normal"><?= $ln['annual_return'] ?></p>
       </div>
     </div>
     <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-2">
       <div class="text-black rounded h-100 text-center">
-        <h2 class="fw-bold mb-0">353.93 million</h2>
+        <h2 class="fw-bold mb-0">1+ million</h2>
         <p class="fs-4 mb-0 fw-normal"><?= $ln['total_investment'] ?></p>
       </div>
     </div>
     <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-2">
       <div class="text-black rounded h-100 text-center">
-        <h2 class="fw-bold mb-0">565,604</h2>
+        <h2 class="fw-bold mb-0">400+</h2>
         <p class="fs-4 mb-0 fw-normal"><?= $ln['live_investor'] ?></p>
       </div>
     </div>
     <div class="col-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 col-xxl-3 my-2">
       <div class="text-black rounded h-100 text-center">
-        <h2 class="fw-bold mb-0"><?= $ln['year10'] ?></h2>
+        <h2 class="fw-bold mb-0"><?= $ln['year7'] ?></h2>
         <p class="fs-4 mb-0 fw-normal"><?= $ln['market_experience'] ?></p>
       </div>
     </div>
@@ -405,7 +405,7 @@
         <img src="./assets/images/icons/c_trader.png" alt="" class="d-flex w-100 my-auto" style="max-width: 15em;">
       </div>
       <div class="d-flex col-sm-12 col-md-3 col-lg-3 ps-md-3 ps-sm-0 justify-content-end fs-6">
-        <a href="" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
+        <a href="./coming_soon" class="text-decoration-none d-flex position-relative" style="width: fit-content;">
           <div class="bg-red text-white text-center px-2 pb-1 d-flex fs-7 position-absolute rounded-2" style="top:-0.8em; right:-0.8em;">comming soon</div>
           <button class="btn bg-success text-white text-center px-4 my-auto ms-auto">
             <h5 class="my-1"><?= $ln['start_copying'] ?></h5>

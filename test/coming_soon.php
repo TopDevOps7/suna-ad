@@ -24,7 +24,7 @@
   <meta name="google" content="notranslate" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Suna <?php echo "| " . $page; ?></title>
-  <meta name="title" content="FIGHT ENERGY SHORTAGE AND CLIMATE CHANGE!">
+  <meta name="title" content="WORLD BEST AUTOMATIC TRADING SYSTEM EXPERIENCE">
   
   <link rel="shortcut icon" href="./assets/images/icons/sunaicon.ico" type="image/x-icon">
   <link href="./assets/images/icons/sunaicon.ico" rel="suna-icon">
@@ -46,7 +46,7 @@
         <a class="fs-6 navbar-brand" href="./"> <img class="" src="./assets/images/icons/suna_logo_white.png" alt="logo" style="width: 7em"> </a>
         <div class="collapse navbar-collapse pt-0" id="navbarNav">        
           <ul class="navbar-nav ms-auto ps-lg-5 ps-md-0">
-            <li class="nav-item nav-link navbtnlinks px-lg-3 px-md-3 px-sm-4 py-sm-2 text-center">
+            <li class="nav-item nav-link navbtnlinks px-lg-3 px-md-3 px-sm-4 py-sm-2 text-center contact_link">
               <a href="" class="fs-6"><?= $ln['contact_us'] ?></a>
             </li>            
           </ul>
@@ -66,3 +66,13 @@
       </section>
     </div>
   </header>
+
+  <style>
+    .nav-item.nav-link.contact_link:hover {
+      background: transparent !important;
+    }
+    .nav-item.nav-link.contact_link:hover a {
+      color: #e9d16f !important;
+      font-weight: normal !important;
+    }
+  </style>

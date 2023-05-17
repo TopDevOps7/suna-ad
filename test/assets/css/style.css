@@ -834,3 +834,15 @@ h6 {
   margin-top: 3em !important;
   margin-bottom: 3em !important;
 }
+a.text-decoration-none:hover .btn.bg-success {
+  background-color: #117848 !important;
+}
+a.text-decoration-none:hover .btn.bg-primary-color {
+  background-color: #082050 !important;
+}
+a.text-decoration-none:hover .btn.bg-secondary-color{
+  background-color: #e0c247 !important;
+}
+a.text-decoration-none:hover {
+  transform: scale(1.02);
+}
